@@ -1,2 +1,5 @@
-# Site-bootstrap
-Aula de Web I - 02 de Maio de 2023
+# Projeto do Site de Hotéis de Luxo
+
+### Bibliotecas JS, de Animações, Bootstrap e Css pré definidas no projeto e com comentários e links para documentação
+
+#### Disciplina de Programação Web I - TADS 2023
