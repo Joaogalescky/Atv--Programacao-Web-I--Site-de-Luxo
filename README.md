@@ -1,4 +1,4 @@
-# Projeto do Site de Hotéis de Luxo
+## Atividade em Sala - Projeto - Site de Hotéis de Luxo
 
 ### Bibliotecas JS, de Animações, Bootstrap e Css pré definidas no projeto e com comentários e links para documentação
 
